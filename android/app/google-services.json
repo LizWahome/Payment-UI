@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83916402003",
+    "firebase_url": "https://payment-bd10c-default-rtdb.firebaseio.com",
+    "project_id": "payment-bd10c",
+    "storage_bucket": "payment-bd10c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83916402003:android:272f18998c31b66cd4c5a6",
+        "android_client_info": {
+          "package_name": "com.example.payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83916402003-s8acqr6m6laoblfgk41oera5t0etecpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCza60mgHS68j-ofjQpgCYFw-D6HHLKzeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83916402003-s8acqr6m6laoblfgk41oera5t0etecpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83916402003-etq0egl0f09bokqqtp847jvucpqaohnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.payment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
